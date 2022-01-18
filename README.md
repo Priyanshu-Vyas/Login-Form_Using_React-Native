@@ -6,4 +6,4 @@
 [Credentials](https://github.com/Priyanshu-Vyas/Login-Form_Using_React-Native/blob/main/Login_Form/src/components/Credentials/index.js)
 ![credentials.jpg](https://github.com/Priyanshu-Vyas/Login-Form_Using_React-Native/blob/main/Login_Form/credentials.jpg)
 ### Login-Form:
-![Final.jpg](https://github.com/Priyanshu-Vyas/Login-Form_Using_React-Native/blob/main/Login_Form/Final.png =250x250)
+<img src="https://github.com/Priyanshu-Vyas/Login-Form_Using_React-Native/blob/main/Login_Form/Final.png" width="200" height="400" />
